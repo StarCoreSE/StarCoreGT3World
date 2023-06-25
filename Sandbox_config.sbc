@@ -113,7 +113,6 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -142,6 +141,11 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="WeaponCore - 2.4">
+      <Name>1918681825.sbm</Name>
+      <PublishedFileId>1918681825</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Anomaly-Solaris-Hypernautics">
       <Name>2983399274.sbm</Name>
       <PublishedFileId>2983399274</PublishedFileId>
@@ -150,11 +154,6 @@
     <ModItem FriendlyName="SCPrefabSpawner">
       <Name>2977065999.sbm</Name>
       <PublishedFileId>2977065999</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(1.0)-WIP">
-      <Name>2189703321.sbm</Name>
-      <PublishedFileId>2189703321</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WCT FreeSubgrid">
